@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/benfoxall/deltas#readme",
   "dependencies": {
+    "consolidate": "^0.13.1",
     "express": "^4.13.3",
+    "hogan.js": "^3.0.2",
     "moment": "^2.10.6"
   }
 }
